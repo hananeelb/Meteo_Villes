@@ -23,4 +23,4 @@ Un site web simple et interactif qui permet d'afficher en temps réel la météo
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/ton-compte/Meteo_Villes.git
+   git clone https://github.com/hananeelb/Meteo_Villes.git
