@@ -1,0 +1,21 @@
+body {
+    background-image: url(../image/contenu1.png); /* Image à placer dans /image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  @media (max-width: 768px) {
+    body {
+      background-attachment: scroll;
+    }
+  }
+  
+  #resultat p {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
